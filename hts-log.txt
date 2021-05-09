@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 May 2021 21:24:36 at https://www.cschry.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cschry.com/ -O1 "C:\Users\Avinash\Desktop\new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:59:05	Error: 	"Not Found" (404) at link https://www.cschry.com/hdfc-bc-startek-manual-process.php (from https://www.cschry.com/)
+22:11:25	Error: 	"Not Found" (404) at link https://www.cschry.com/dm/recover-password.html (from https://www.cschry.com/dm/)
+22:11:25	Error: 	"Not Found" (404) at link https://www.cschry.com/Maven_Pro.zip (from https://www.cschry.com/estore-branding.php)
+22:11:25	Warning: 	Link https://www.cschry.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/fonts/simple-line-icons/font/Simple-Line-Icons.514b2?v=2.4.0
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/fonts/simple-line-icons/font/Simple-Line-Icons.515b2?v=2.4.0
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/fonts/simple-line-icons/font/Simple-Line-Icons.516b2?v=2.4.0
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/fonts/simple-line-icons/font/Simple-Line-Icons.517b2?v=2.4.0
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/minim/minimal%402x.58c.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/minimal/green%402x.590.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/minima/orange%402x.598.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/minima/yellow%402x.59a.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/minima/purple%402x.59e.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/square/square%402x.5a0.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/square/orange%402x.5ac.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/square/yellow%402x.5ae.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/square/purple%402x.5b2.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/vendors/css/forms/icheck/polar/polaris%402x.5ca.delaye
+22:18:43	Warning: 	File not parsed, looks like binary: https://www.cschry.com/dm/app-assets/images/datatables/resources/details_close.51c.delaye
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 minutes 8 seconds : 1011 links scanned, 1007 files written (842122465 bytes overall) [825847334 bytes received at 254263 bytes/sec], 22081177 bytes transferred using HTTP compression in 536 files, ratio 22%, 9.2 requests per connection
+(3 errors, 16 warnings, 0 messages)
